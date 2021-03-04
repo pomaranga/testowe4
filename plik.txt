@@ -2,4 +2,5 @@ to jest wersjonowany plik
 linia druga
 linia trzecia
 linia czwarta
-witam serdecznie mam nadzieję że działa?
+
+linia szósta
