@@ -2,4 +2,9 @@ to jest wersjonowany plik
 linia druga
 linia trzecia
 linia czwarta
-lubie placki
+
+linia szósta
+
+
+
+linia 10
