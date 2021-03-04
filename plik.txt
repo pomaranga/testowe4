@@ -1,16 +1,15 @@
-to jest wersjonowany plik
+﻿to jest wersjonowany plik
 linia druga
 linia trzecia
+ HEAD
+
 linia czwarta
 
 linia szósta
 linia 10
 linia 15 testowa halo hao raz dwa trzy?
-
-
-
-linia 10
-
-linia dwunasta
-
-ja już nie wiem która to linia
+linia kolejna
+linia kolejniejsza
+nastepna 
+ f8f4fbb69ba2244daf7a383bd482a2abec68da8b
+linia bardziej kolejna 
