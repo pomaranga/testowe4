@@ -1,3 +1,16 @@
-to jest wersjonowany plik
+﻿to jest wersjonowany plik
 linia druga
-linia AniO
+linia trzecia
+
+linia czwarta
+
+linia szósta
+linia 10
+linia 15 testowa halo hao raz dwa trzy?
+linia kolejna
+linia kolejniejsza
+nastepna
+linia bardziej kolejna 
+któraś napewno
+linia 20
+
