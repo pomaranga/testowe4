@@ -4,7 +4,5 @@ linia trzecia
 linia czwarta
 
 linia szósta
-
-
-
 linia 10
+linia 15 testowa halo hao raz dwa trzy?
