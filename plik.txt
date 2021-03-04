@@ -1,7 +1,6 @@
 ﻿to jest wersjonowany plik
 linia druga
 linia trzecia
- HEAD
 
 linia czwarta
 
@@ -10,7 +9,6 @@ linia 10
 linia 15 testowa halo hao raz dwa trzy?
 linia kolejna
 linia kolejniejsza
-nastepna 
- f8f4fbb69ba2244daf7a383bd482a2abec68da8b
+nastepna
 linia bardziej kolejna 
 któraś na pewno
