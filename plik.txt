@@ -2,4 +2,5 @@ to jest wersjonowany plik
 linia druga
 linia trzecia
 linia czwarta
-linia piąta
+
+linia szósta
