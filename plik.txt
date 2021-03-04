@@ -12,3 +12,5 @@ linia kolejniejsza
 nastepna
 linia bardziej kolejna 
 któraś napewno
+linia 20
+
