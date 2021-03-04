@@ -1,6 +1,6 @@
-to jest wersjonowany plik!
+to jest wersjonowany plik
 linia druga
 linia trzecia
 linia czwarta
-linia AniO
-treść
+
+linia szósta
