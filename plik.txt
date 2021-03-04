@@ -1,3 +1,7 @@
 to jest wersjonowany plik
 linia druga
+<<<<<<< HEAD
 linia 3
+=======
+linia trzecia
+>>>>>>> c8b31197e78914aa212d0eb196bb67267207eb79
