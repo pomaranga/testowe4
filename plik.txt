@@ -1,4 +1,4 @@
-to jest wersjonowany plik
+﻿to jest wersjonowany plik
 linia druga
 linia trzecia
 linia czwarta
@@ -6,3 +6,5 @@ linia czwarta
 linia szósta
 linia 10
 linia 15 testowa halo hao raz dwa trzy?
+linia kolejna
+linia kolejniejsza
